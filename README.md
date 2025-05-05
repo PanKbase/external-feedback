@@ -10,8 +10,6 @@ Great. You should check out the Discussions section of the website.
 
 ## I think something isn't working properly or have a suggestion on how to improve PanKbase
 
-!!!COMING SOON!!!
-
 Post an issue. Start here and pick an appropriate issue type: https://github.com/PanKbase/external-feedback/issues 
 
 To help guide you, issue templates are available for 1) bug reports, 2) feature requests and 3) improvements. Loosely, these will guide you towards:
